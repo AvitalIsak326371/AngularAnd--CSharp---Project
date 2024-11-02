@@ -16,11 +16,11 @@
 
 עדכון:
 
-![image](https://github.com/user-attachments/assets/ff584c30-94ba-468a-ac66-c6bdb7e36d51)
+![image](https://github.com/user-attachments/assets/51ca1b7e-89d8-4df7-9307-bcccec0e08f1)
 
 
 מחיקה:
-![image](https://github.com/user-attachments/assets/0c8de9a7-2240-4bd8-b509-f0a078aa9d26)
+![image](https://github.com/user-attachments/assets/0c6b2fa9-ff05-41d0-a7d2-a36c3ee3874b)
 
 חיפוש:
 
