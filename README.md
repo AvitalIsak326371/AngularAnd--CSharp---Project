@@ -7,5 +7,7 @@
 - **Backend**: C# (.NET Core) במבנה של שכבות (API, Core, Data, Service)
 ## צילומי מסך:
 
+myProject/src/assets/צילום מסך 2024-11-02 201408.png
+![רשימת לקוחות ](myProject/src/assets/צילום מסך 2024-11-02 201408.png)
 
 
