@@ -15,6 +15,7 @@
 ![image](https://github.com/user-attachments/assets/2ebc2822-ab96-4d92-89a3-00b1d128161a)
 
 עדכון:
+
 ![image](https://github.com/user-attachments/assets/7e54cf9f-3195-41fb-883a-d67aed311fae)
 
 מחיקה:
