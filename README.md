@@ -19,7 +19,9 @@
 ![image](https://github.com/user-attachments/assets/51ca1b7e-89d8-4df7-9307-bcccec0e08f1)
 
 
+
 מחיקה:
+
 ![image](https://github.com/user-attachments/assets/0c6b2fa9-ff05-41d0-a7d2-a36c3ee3874b)
 
 חיפוש:
