@@ -5,5 +5,8 @@
 ## טכנולוגיות בשימוש
 - **Frontend**: Angular (גרסה: [18])
 - **Backend**: C# (.NET Core) במבנה של שכבות (API, Core, Data, Service)
+## צילומי מסך:
+![image](https://github.com/user-attachments/assets/8fc68ee2-da8a-4607-9265-b23960d587dc)
+
 
 
