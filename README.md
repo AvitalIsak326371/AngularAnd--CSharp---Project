@@ -6,18 +6,4 @@
 - **Frontend**: Angular (גרסה: [18])
 - **Backend**: C# (.NET Core) במבנה של שכבות (API, Core, Data, Service)
 
-## התקנה והרצה
 
-### צד השרת (C#)
-להרצת צד השרת, השתמש בפקודות הבאות:
-```bash
-cd CPA.API
-dotnet run
-### צד הקליינט (Angular)
-להרצת צד הקליינט, השתמש בפקודות הבאות:
-
-bash
-Copy code
-cd CPA.Client
-npm install
-ng serve
